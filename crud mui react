@@ -18,6 +18,7 @@ const Company = (props) => {
 
     const dispatch = useDispatch();
 
+    const [data,setData] = useState("");
     const [id, idchange] = useState(0);
     const [name, namechange] = useState('');
     const [email, emailchange] = useState('');
