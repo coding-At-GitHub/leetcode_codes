@@ -14,7 +14,7 @@ import ListItemText from '@mui/material/ListItemText';
 import MailIcon from '@mui/icons-material/Mail';
 import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
-import Typography from '@mui/material/Typography';
+import {Typography, Box} from '@mui/material';
 
 const drawerWidth = 240;
 const drawerLength = 240;
