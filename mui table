@@ -1,6 +1,6 @@
 import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from "@mui/material";
 import { useEffect, useState } from "react";
-
+//mtarial table
 const Muitable = () => {
     const columns = [
         { id: 'id', name: 'Id' },
