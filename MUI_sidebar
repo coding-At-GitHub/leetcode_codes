@@ -17,7 +17,7 @@ import Toolbar from '@mui/material/Toolbar';
 import {Typography, Box} from '@mui/material';
 
 const drawerWidth = 240;
-const drawerLength = 240;
+//const drawerLength = 240;
 
 interface Props {
   /**
