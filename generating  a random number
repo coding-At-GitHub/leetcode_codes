@@ -1,3 +1,4 @@
 // generating  a random number
 const a = Math.random();
 console.log(a);
+console.log("This is random number llgi");
