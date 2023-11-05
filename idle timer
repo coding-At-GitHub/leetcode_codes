@@ -1,5 +1,5 @@
 import React,  { useContext, useState , useEffect} from "react";
-import { useIdleTimer } from "react-idle-timer"
+import { useIdleTimer } from "react-idle-timer";
 import AuthContext from "../context/AuthContext";
 /**
  * @param onIdle - function to notify user when idle timeout is close
