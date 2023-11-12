@@ -1,4 +1,5 @@
 // generating  a random number
+import React from React 
 const a = Math.random();
 console.log(a);
 console.log("This is random number llgi");
