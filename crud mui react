@@ -1,7 +1,7 @@
 import { Button, Checkbox, Dialog, DialogContent, DialogTitle, FormControlLabel, IconButton, Paper, Radio, RadioGroup, Stack, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow, TextField } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import React, { useEffect, useState } from "react";
-//import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { CreateCompany, GetAllCompanys, GetCompanybycode, RemoveCompany, UpdateCompany } from "../Redux/ActionCreater";
 import { connect, useDispatch, useSelector } from "react-redux";
 import { OpenPopup } from "../Redux/Action";
