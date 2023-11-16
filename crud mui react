@@ -2,7 +2,7 @@ import { Button, Checkbox, Dialog, DialogContent, DialogTitle, FormControlLabel,
 import React from "react";
 import { useState } from "react";
 import { useEffect } from "react";
-import { 
+import { useRef 
 import { CreateCompany, GetAllCompanys, GetCompanybycode, RemoveCompany, UpdateCompany } from "../Redux/ActionCreater";
 import { connect, useDispatch, useSelector } from "react-redux";
 import { OpenPopup } from "../Redux/Action";
