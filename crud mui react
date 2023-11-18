@@ -36,7 +36,7 @@ const Company = (props) => {
 
     const [isedit, iseditchange] = useState(false);
     const [title, titlechange] = useState('Create company');
-
+    const [isBoolean, setIsBoolean] = useState(false);
     const editobj = useSelector((state) => state.company.companyobj);
 
     useEffect(() => {
