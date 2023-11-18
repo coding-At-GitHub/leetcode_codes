@@ -31,6 +31,7 @@ interface Props {
 export default function ResponsiveDrawer(props: Props) {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
+    const [isBoolean, setIsBoolean] = useState(false);
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
