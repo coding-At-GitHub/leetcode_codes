@@ -47,7 +47,9 @@ export default function SignInSide() {
   return (
     <ThemeProvider theme={defaultTheme}>
 <Box> 
-<Typography > sample 1 <Typography><Typography > sample 1 <Typography>
+<Typography > sample 1 <Typography>
+<Typography > sample 2<Typography>
+<Typography > sample 3 <Typography>
 
 </Box>
       <Grid container component="main" sx={{ height: '100vh' }}>
