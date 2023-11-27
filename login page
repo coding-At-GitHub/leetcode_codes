@@ -50,6 +50,7 @@ export default function SignInSide() {
 <Typography > sample 1 <Typography>
 <Typography > sample 2<Typography>
 <Typography > sample 3 <Typography>
+<Typography > sample 4 <Typography>
 
 </Box>
       <Grid container component="main" sx={{ height: '100vh' }}>
