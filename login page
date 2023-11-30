@@ -49,7 +49,7 @@ export default function SignInSide() {
 <Box> 
 <Typography > sample page 1 <Typography>
 <Typography > sample paper 2<Typography>
-<Typography > sample 3 <Typography>
+<Typography > sample view 3 <Typography>
 <Typography > sample 4 <Typography>
 <Typography > sample 5 <Typography>
 <Typography > sample 6 <Typography>
