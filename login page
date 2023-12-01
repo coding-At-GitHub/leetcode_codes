@@ -50,7 +50,7 @@ export default function SignInSide() {
 <Typography > sample 1 page 1 <Typography>
 <Typography > sample 2 paper 2<Typography>
 <Typography > sample 3 view 3 <Typography>
-<Typography > sample pages 4 <Typography>
+<Typography > sample4 pages 4 <Typography>
 <Typography > sample page 5 <Typography>
 <Typography > sample pages 6 <Typography>
 <Typography > sample pages 7 <Typography>
