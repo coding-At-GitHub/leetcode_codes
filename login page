@@ -47,7 +47,7 @@ export default function SignInSide() {
   return (
     <ThemeProvider theme={defaultTheme}>
 <Box> 
-<Typography > sample page 1 <Typography>
+<Typography > sample 1 page 1 <Typography>
 <Typography > sample paper 2<Typography>
 <Typography > sample view 3 <Typography>
 <Typography > sample pages 4 <Typography>
